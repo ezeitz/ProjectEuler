@@ -1,6 +1,7 @@
 #Eric Zeitz
 
-#Project Euler: Problem 1
+#Project Euler: Problem 2
+
 sum = 0
 a = 1
 b = 2
